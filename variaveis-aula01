@@ -1,0 +1,16 @@
+string endereço;
+string telefone;
+int salario;
+string cpf;
+int preco;
+string temperatura;
+string casado;
+int data-de-nasc;
+string vacinado;
+int preco_gasolina;
+int litros_gasolina;
+int preco_pao;
+string total_compras;
+string idade;
+string data_contrato;
+string nivel_escolaridade
